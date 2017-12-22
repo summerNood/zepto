@@ -11,3 +11,5 @@ exclude:
   - script
   - vendor
   - Gemfile
+
+theme: jekyll-theme-cayman
